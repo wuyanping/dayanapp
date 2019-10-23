@@ -1,0 +1,19 @@
+{
+  "appKey": "LBmWE2c9cqg2NvgSmsUYfTagv4XIR3j2",
+  "appSecret": "m5O5lqfQkX4ocA0koUScVOx60cYu1bqs",
+  "projectId": 86,
+  "id": 176,
+  "name": "dayanapp",
+  "framework": "vue",
+  "platform": "mobile",
+  "description": "",
+  "git": {
+    "url": "https://github.com/wuyanping/dayanapp.git",
+    "isPrivate": 0,
+    "username": "wuyanping",
+    "password": "5Yp19950703"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
